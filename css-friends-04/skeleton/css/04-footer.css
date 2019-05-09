@@ -1,0 +1,16 @@
+/* PHASE 4: Footer */
+
+.footer {
+    margin: 0 auto;
+    display: flex;
+    height: 20px;
+    border-top: solid lightgray 1px;
+    border-bottom: solid lightgray 1px;
+    width: 900px;
+    justify-content: space-between;
+    padding: 15px;
+}
+
+.footer-content {
+    color: rgb(176, 176, 176);
+}
